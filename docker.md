@@ -6,7 +6,11 @@
 
 **linux：**
 
-修改docker.json
+修改/etc/docker/daemon.json
+* docker network prune
+* systemctl stop docker
+* systemctl daemon-reload
+* systemctl restart docker
 
 ```properties
 "default-address-pools" : [
