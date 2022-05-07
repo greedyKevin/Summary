@@ -68,4 +68,4 @@ spring:
 
 **profiles.active与namespace与空间要相对应**
 
-![image-20220507112935290](C:\Users\Kevin\AppData\Roaming\Typora\typora-user-images\image-20220507112935290.png)
+![image-nacos-image](https://raw.githubusercontent.com/greedyKevin/Summary/main/images/nacos-image.png)
